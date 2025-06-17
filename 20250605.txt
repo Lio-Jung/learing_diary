@@ -1,0 +1,19 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸 today's plan :
+    decided learning php, html, css... with making website by a playlist youtube '생활코딩 web1'
+
+🔸 what i did :
+    made a folder 'web' and coded for a website.
+
+❗ opeing 1.html on web : 
+    drag 1.html from EXPLORER in vscode to web. or press ctrl + o in web and search 1.html.
+
+🔸 what i did : 
+    lernt some grammatics of HTML. It took 2,5 hours. lecture 1 to 13.
+    I think I did less then the half of whole vidoes in playlist.
+    But solo-learning can give me less inspiration. and with this playlist made fun.😊
+    at least finish this lecture with this playlist and then let's see.
+
+❗ next time : lecture 14
+❗ mysteps : do HTML and then CSS,PHP -> PHP framework(library) -> Bigdata?
