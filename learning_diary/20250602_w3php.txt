@@ -1,0 +1,50 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸 today's plan : 
+    php, html starts to learn
+
+🔸 (html in vscode)opening with live server 
+    right click on the screen in html in vscode -> open with live server 
+    --> can check your code in real time(with f5)
+
+🔸 HTML's basic structure
+    <!DOCTYPE html>
+    <html>
+    <body>
+
+    ... ...
+
+    </html>
+    </body>
+
+🔸 HTML Tags
+    write with big letters
+        <h1> ... </h1> 
+
+    write with small letters
+        <p> ... </p>
+
+🔸PHP code
+    basic structure
+        <?php
+
+        ... ...
+
+        ?>
+    
+    printline, enter
+        echo "<br>";
+
+    string + variable(2 ways)
+        echo "abc " . $x . " def";
+        echo "abd $x def";
+
+    global variable cannot be used in a function
+
+
+
+❗ next time https://www.w3schools.com/php/php_echo_print.asp
+❗ easy search for tools. make a organazation of work diary with google docs? https://bbomicoding.tistory.com/82
+❓ possible to open php in "live server"?
+
+
