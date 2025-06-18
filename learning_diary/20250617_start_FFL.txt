@@ -1,0 +1,33 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    making FreeForLife(working title) with ChatGPT (app-blocking app)
+
+🔸 progress : 
+    v 1. install 'Andriod Studio'
+    v 2. making new project
+    v 3. unterstanding how Andriod Studio looks like
+    4. maknig UI
+    5. writing Kotlin code(movement of app)
+    6. realizing functions of app
+    7. run app with virtual device(i tried but my laptop is little slow)
+    8. building app 'Build APK' with those files : 
+        java/.../MainActivity.kt    : main movement of app and UI(Jetpack Compose)
+        AndroidManifest.xml         : define authority of app
+        AppBlockService.kt          : accessibility
+        BlockConfigManager.kt       : logics for saveing or loading settings
+    9. install FFl 
+    10. learning    
+        Kotlin grammatics
+        Android Component(Activity, Service ... )
+        Jetpack Compose (UI)
+        Room, LiveData (saveing Data)
+        
+
+🔸what i did : 
+    - installed 'Andriod Studio'
+    - copy and paste form ChatGPT and reading, learning the codes (it will take time to be familiar)
+    - 2 hours took
+
+❗ next time : keep making FFL and learn how the codes works
+

@@ -1,0 +1,43 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    - making FreeForLife(working title) with ChatGPT (app-blocking app)
+    - HTML learning
+
+🔹 turn on debuging mode with USB and Smartphone :
+    on phone : 
+    1. setting -> telefoninfo -> softwareinformationen -> touch 7 times biuldnummer ==> developer mode activated
+    2. setting -> entwickleroptionen -> UBS-Debugging ==> the phone is ready
+    3. connect phone and computer with USB -> UBS-Debuggung zulassen ==> all ready (check the status Smartphone not offline on logcat of Android Studio)
+    4. Play
+
+🔸 progress : 
+    v 1. install 'Andriod Studio'
+    v 2. making new project
+    v 3. unterstanding how Andriod Studio looks like
+    doing 4. making UI
+    5. writing Kotlin code(movement of app)
+    6. realizing functions of app
+    7. run app with virtual device(i tried but my laptop is little slow)
+    8. building app 'Build APK' with those files : 
+        java/.../MainActivity.kt    : main movement of app and UI(Jetpack Compose)
+        AndroidManifest.xml         : define authority of app
+        AppBlockService.kt          : accessibility
+        BlockConfigManager.kt       : logics for saveing or loading settings
+    9. install FFl 
+    10. learning    
+        Kotlin grammatics
+        Android Component(Activity, Service ... )
+        Jetpack Compose (UI)
+        Room, LiveData (saveing Data)
+        
+
+🔸what i did : 
+    - took 5 hours
+    - edited MainActivity.kt
+    - made models/BlockRule.kt, screens/AddBlcokRuleScreen.kt, screens/FFListScreen.kt
+    - lernt how works the codes
+
+❗ next time : //TODO: 06.18 make it run only in one page with a box ❗without ChatGPT❗
+
+
