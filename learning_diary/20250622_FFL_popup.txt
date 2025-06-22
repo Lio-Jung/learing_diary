@@ -1,0 +1,12 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    -TODO : make it run only in one page with a box ❗without ChatGPT❗
+    - thinking... with this i can learn something but i'm wondering whether it is nessecary
+
+🔸what i did : 
+    - from 15:20 - 17:20 took 2 hours
+    - did something but worked nothing...... 
+
+❗ next time :
+    still doing with dialog. but maybe with other kt file but using just UI(pop up Dialog)
