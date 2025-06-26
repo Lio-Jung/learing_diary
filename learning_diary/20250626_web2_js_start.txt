@@ -1,0 +1,20 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    - web2 javascript start
+
+🔸what i did : 
+    - 17th lecture finished from WEB2 javascript.
+    - lernt how to use JS in HTML for 1.5 hours
+
+    - <script>
+    - span > class > id 
+    - stype fomr CSS
+    - <input type="button" value="night" onclick=... ...>
+    🔹 document.querySelector('body').style.color // white (getting info)
+    
+🔹 other way to run js : console( in webpage - inspect'검사' - console )
+    -useful to do small works, getting info of id, etc
+
+❗ next time :
+    - 18th start
