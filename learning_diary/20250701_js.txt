@@ -1,0 +1,15 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    - start 18/37 lecture
+
+🔸what i did : 
+    - "this"
+    - "var" in <input>
+    - function, parameter, argument
+    - method : a function in object
+    - property : variable in object
+    - lernt 3 hours
+
+❗ next time :
+    - 34th start
