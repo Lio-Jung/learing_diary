@@ -1,0 +1,25 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    - 34/37 JS lecture
+    
+
+🔹<h3>some useful keywords for learning</h3>
+    document객체(DOM : Document Object Model) : delete tags, add child tags<br>
+    window객체의 ... : get IQ, screensize of webbrowser, ...<br>
+    ajax : 웹페이지 리로드없이 정보 번경<br>
+    cookie : 개인화 된 서비스<br>
+    offline web application : <br>
+    webGL : 3차원 그래픽으로 게임만들기<br>
+
+
+❗HTML DOM (Input Checkbox Object)
+    -maybe it's important for making app or something
+
+🔸what i did : 
+    - finish WEB2 JavaScript for 1 hour
+    - start making TODO WEB for 3 hours
+    - made a button, which makes new checkbox
+
+❗ next time :
+    - do todo web, make blank between checkbox
