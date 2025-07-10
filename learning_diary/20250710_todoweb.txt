@@ -9,7 +9,7 @@
     - showing string(text)
     - delete button but need to understand rightly
     - optimized codes
+    - understand delete button
 
 ❗ next time :  
-    - understand delete button
     - saveTodo() (learn cache)
