@@ -1,0 +1,15 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+    - do todo web, make blank between checkbox
+    - learn C#?
+
+🔸what i did : 
+    - for 3 hours 
+    - showing string(text)
+    - delete button but need to understand rightly
+    - optimized codes
+
+❗ next time :  
+    - understand delete button
+    - saveTodo() (learn cache)
