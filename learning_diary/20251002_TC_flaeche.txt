@@ -1,0 +1,13 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+22:00 - 00:00 -> 2 hours
+
+🔸today's plan : 
+	Problem1. with 410.tcx. 
+	Problem2. Hide with Folder doesn't work
+
+🔸what i did : 
+	Problem 1. done. seperate conditions, during caculating Polygon
+	Problem 2. done. added more conditions into methode
+
+❗ next time :

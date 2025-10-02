@@ -1,0 +1,30 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan :
+	- find which codes what i changed.
+	- try at new TheoCAD with changed codes. and watch, whether korean is generated
+	-  start from 12:40-14:20(1.5hours)       15:00-17:00(2hours)	17:30-18:00(0.5hour)
+
+🔸what i did : 
+making ko folger when TheoCAD build
+	- ResourcesManagerEx.cs : line 107. added 
+		if (Directory.Exists(path + "\\ko-KR"))
+		    returnList.Add(new CultureInfo("ko-KR")); 
+	- SetupFiles.wxs : lin 193 added. makeing file(TheoCAD.resource.dll)
+done	=> ko folder added while build in C:\theoCAD2\trunk\TheoCAD\bin\Debug
+
+open proj file with Notepad at Folder direct
+	- TheoCAD.csproj(open with notepad) : line 2066 (ctrl f : Properties\Resources)
+			❗must added?  => no needed, automatially added
+		<EmbeddedResource Include="Properties\Resources.ko.resx">
+		      <SubType>Designer</SubType>
+		 </EmbeddedResource>
+done
+
+making help/ko/Examples, F1, F1-Menu when TheoCAD build(with Heat---.wxs?)
+	- form1.cs : line 4393 (to find help in solutions)
+	- form_hilfe.cs : line 92 (to find help in solutions)
+	- TheoCAD(Right click) -> properties -> build Events (xcopy /S /I /Y "$(ProjectDir)..\Help" "$(TargetDir)\Help") --> this makes Folders.....?
+	- SetupFiles.wxs : line 262 (added <ComponentRef Id="TheoCAD.resources.dll.ko" />) (not really important)
+
+❗ next time :

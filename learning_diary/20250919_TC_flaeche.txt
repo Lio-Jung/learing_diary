@@ -1,0 +1,13 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+
+🔸what i did : 
+	work for 3 hours
+	
+	there's many problem with this Flaeche.
+	- 
+
+❗ next time :
+	- add a methode here : C:\TheoCAD_new_for_flaeche_\trunk\TheoCAD\Documents\DefaultDocument.cs
+	- here should not be problem : C:\TheoCAD_new_for_flaeche_\trunk\TheoCAD\GeomObjects\Polyline.cs

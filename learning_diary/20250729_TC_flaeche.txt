@@ -1,0 +1,31 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	- ticket 362 Flaeche ( in Mario's home)
+
+🔸what i did : 
+Fläche(Aufgabe : Polynome in hidden Folder shouldn't be calculated)
+	-trunk\TheoCAD\Rendering\Renderer.cs
+		line 2738 (Komplette Fläche Zentral im Polygon darstellen)
+	-trunk\TheoCAD\Utils\MeasurementUnitConverter.cs
+		line 227 (Methode from Renderer.cs uses this Methode)
+	-trunk\TheoCAD\Rendering\Renderer.cs
+		line 2673 and Methode : labelTexts.Add(MeasurementUnitConverter.toAreaUnitString()) 
+					and     
+			graphics.FillRectangle(identBrushInv, coordinates[0].X, (coordinates[0].Y + h + 5), w, h);
+			graphics.DrawString(label, massFont, massBrush, coordinates[0].X, (coordinates[0].Y + h + 5));
+			(These write flaeche)
+	- im doing line 2692
+
+korean translate
+	- open in ResX manager <-> exel (easy import, export)
+	-Resources2.Designer.cs : if it is created, delete it
+do it later, if i can use DeepL Pro
+
+view, edit, files (tools)
+langauge, apply, back
+mesureing instruments, location, menu, horizoning
+
+
+❗ next time :
+	Maybe flaeche more(im doing line 2692)

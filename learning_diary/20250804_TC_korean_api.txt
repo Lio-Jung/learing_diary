@@ -1,0 +1,8 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+
+🔸what i did : 
+
+❗ next time :
+	- api with python. automatically translate whole files(.html) from dede into koko

@@ -1,0 +1,20 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+
+🔸what i did : 
+	worked for 3hours
+
+	check? (exist a clue of 'visible')	SPObject.cs -> crtl + f -> parentVisible...
+	GeomObject.cs
+	
+	!!!(a big hint) calulate fnc = getAreaAdjusted() in Polyline.cs
+
+
+	changed
+	Renderer.cs 2686 (additional condition)
+			2735 (add if)
+	Polyline.cs	2211 (if Polyline ist unsichtbar)
+
+❗ next time :
+	frage : wann wird die Differenz von beiden Flaeche berechnet ???
