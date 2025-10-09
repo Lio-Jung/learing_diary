@@ -1,0 +1,14 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	problem : Pion test 18.54.tcx. we want to print the screen with my Point of view.
+
+🔸what i did : 
+	1std
+		try to find, which document problem has. fount a file with design. and find following funtions.
+	1std
+	keywords : startAction? i don't think so...
+		try to find it too. i have some hint documents. and i'm gonna find deeper	
+
+❗ next time :
+		try to find it too. i have some hint documents. and i'm gonna find deeper(form1_3.cs)

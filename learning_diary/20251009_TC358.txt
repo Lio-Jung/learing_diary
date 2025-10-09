@@ -1,0 +1,15 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+the scaling and Position Problem --> was not a problem... other thing was problem...
+
+🔸what i did : 
+2std
+	compared 2 mothodes(calcViewMatrixx from ExporterPDF and calcViewMatrix from ExporterPdeWoFIV)
+	thought the code how to make scale and position right.
+	using 'debug.writeline("");' found which methode is called with which mount of polygons.
+	-> found the problem : need new Viewmode and need to put it in a methode.
+	
+❗ next time :
+View.cs
+	learn ' ViewMode.Ebene' or make a new 'ViewMode.WatchingView' and then put the correct view in methode.

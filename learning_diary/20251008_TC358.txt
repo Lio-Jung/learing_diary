@@ -1,0 +1,34 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	try to find it too. i have some hint documents. and i'm gonna find deeper(form1_3.cs)
+
+🔸what i did : 
+	1std
+
+	maybe. the PIPELINE of exportingPDF
+---------------------------------------------------------------------
+Form1_2.cs	
+ └── startAction(new ActionExportSelection(...))
+       ↓
+ActionExportSelection.cs
+ ├── uses current View or Plane
+ ├── collects selected geometry
+ └── calls ExporterPDF.Export(objects, projectionPlane)
+       ↓
+ExporterPDF.cs
+     (draws whatever plane it received — currently always Z)
+---------------------------------------------------------------------
+	
+	try to find which document has problem. do tried write output while export but coudn't find yet.(tried ExporterPDF, ExporterPDFWoFIV)
+
+	2.5std
+	found which code is problem. need to make new methode (getPageFitMatrWithView) in ExporterPDF.cs
+
+	2.5std
+	fixed the perspetive but the scaling and Position is Problem now.
+
+	i worked 6std
+
+❗ next time :
+the scaling and Position is Problem
