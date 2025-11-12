@@ -1,0 +1,33 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+View.cs
+	learn ' ViewMode.Ebene' or make a new 'ViewMode.WatchingView' 	and then put the correct view in methode.
+
+❗ going definition(ex: public class Schnittpunkt) -> mouse + f12 
+
+🔸what i did : 
+	3.5std
+	found the problemcode. and editing(making new methode)
+
+🔸flow :
+EasyExport()
+│
+├─ if (m_Rooms.Count > 0)
+│   ├─ easyExportRoomsVO()
+│   └─ easyExportRoomsSW()
+│
+└─ else
+    └─ easyExportSimpleObjects()
+        ├─ exportSimpleShape1()
+        ├─ exportSimpleShape2()
+        └─ exportSimpleShape3()   ← (내가 발견한 “내가 보고 있는 시점으로 export”하는 코드)
+
+🔸why lines & fulled with Color? ->
+methode			|  drawing funktions
+easyExportRooms*()	|drawRooms(), drawPipesRoom(), draw(shape)
+easyExportSimpleObjects()|	drawSPObjects(simpleObjects)
+
+❗ next time :
+easyExportRoomsCUSTOM
+	erweitern(die Methode zeigt VO...)

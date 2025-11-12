@@ -1,0 +1,20 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+easyExportRoomsCUSTOM
+	erweitern(die Methode zeigt VO...)
+
+🔸what i did : 
+	1.5std
+🔹go to Definition : F12 / go to Type : ctrl + T
+
+result =
+case1 : easyExportPdfWithPolygon(condition : only 1 Polygon) -> always VO ?should i change it too?
+case2 : easyExportSimpleObjects & auswahl -> VO, Custom
+case3 : easyExportSimpleObjects & alle -> VO, SW, Custom(dark)
+case4 : mehrere Objeckte -> VO, Custom, SW
+
+❗ next time :
+
+
+

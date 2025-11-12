@@ -1,0 +1,12 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	learn CSS
+
+🔸what i did : 
+	^^*
+in <style>, a{color:red}. a=selector, color:red=declaration, color=!!property!!, red=value 
+	*^^
+1std
+
+❗ next time :

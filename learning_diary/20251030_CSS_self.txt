@@ -1,0 +1,32 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	learn css. 8/15
+
+🔸what i did : 
+	box model : border, padding, margin, width
+
+^^*
+grid : divide dimension. useing (display:grid), (grid-tempalte-columns)
+*^^
+
+^^*
+media query : through displaysize responsivly changing display/grid/...  : @media(){}
+*^^
+
+^^*
+activate css file as link <link rel="stylesheet" href="style.css">
+*^^
+
+^^*
+can i use . com : which tech can be use with web-engine
+*^^
+
+done with CSS생활코딩
+4std
+
+❗ next time :
+make a button, which makes menu slide out from left to Right.
+https://www.w3schools.com/css/css3_animations.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation_speed
+https://www.w3schools.com/howto/howto_js_slideshow.asp

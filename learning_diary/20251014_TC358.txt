@@ -1,0 +1,24 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+
+🔸what i did : 
+result =
+case1(easyExportPdfWithPolygon(condition : only 1 Polygon)) : always VO ?should i change it too? --> erased it --> ??
+case2(easyExportSimpleObjects & auswahl)   : VO, Custom
+case3(easyExportSimpleObjects & alle)	        : VO, SW, Custom(dark)
+case4(mehrere Objeckte)				:VO, Custom, SW
+!case5(case4 & auswahl export) 		: VO,Custom,SW
+
+vanila = 
+case1(only 1 Polygon)		 : VO	
+case2(pion test & auswahl) 	: VO
+case3(point test & alle)		 : VO, SW(dark)
+case4(12tcx & alle) 		: VO,SW
+case5(12tcx & auswahl)		 : VO,SW
+
+4std
+mario wants, that only 'auswahl exportieren' exports the aussicht(viewpoint) -> done
+
+❗ next time :
+ticket 278 start

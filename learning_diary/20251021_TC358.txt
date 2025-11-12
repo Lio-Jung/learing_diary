@@ -1,0 +1,18 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+		Mitte berechnen beim auswahl export mit mehreren Polygon(bei pion text geht's...)
+
+🔸what i did : 
+	check 1. if 1 polygon, called "easyExportRoomsCUSTOM(pageFitMatrix, out viewmode, out viewMatrix);"? -> yes but there's no polygon. -> try different
+	
+🔹 parameter(for definition), argument(for call site)
+🔹 all /* */ -> ctrl + shift + /
+	1.5std
+
+	tried : easyExportRoomsCUSTOM() calculate view with only 'Rooms' -> made getViewMatrixRoom_SPObj() only for easyExportRoomsCUSTOM(). this methode calculate center of view with Rooms and Polygons 
+	-> done
+	1.5std
+
+❗ next time :
+ticket 278 start

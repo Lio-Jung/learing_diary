@@ -1,0 +1,18 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+🔹 zsf von 358.
+	5.5std 	: finding the problemcode. (the problemcode was during exporting PDF and problemcode was ExporterPDF.cs...)
+	🔹 tip(to find problem) : find a suspicious code(or UI) - follow methodes(f12)
+	2.5std 	: x. write code with right perspetive but the scaling and Position is Problem now.
+	🔹 tip(debug) : Debug.WriteLine(); using this at the suspicious code
+	2std		: x. Viewmode was problem
+	3.5std 	: found it, there's already right code(exportSimpleShape3)
+	1.5std		: developed methode CUSTOM and check 4 cases
+	4std		: apply CUSTOM only to 'auswal export'
+	3std		: make CUSTOM calc the center with rooms and polygons
+= 22std
+
+🔸what i did : 
+
+❗ next time :

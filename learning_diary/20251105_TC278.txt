@@ -1,0 +1,19 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	ML1 생활코딩end
+	ticket 278
+
+🔸what i did : 
+
+1std
+	ML1 생활코딩 end
+
+3std	
+	TC278
+	-found the point, where i should put a code for making button(C:\TheoCAD_278\trunk\TheoCAD\GUI\Forms\Form_Einstellungen_Export.cs)
+	-(add a name in resx) this.cbFloorNr.Name = "cbFloorNr". ref= this.cbRoomNr.Name = "cbRoomNr"
+	-make a fnc for cbFloorNr
+
+
+❗ next time :

@@ -1,0 +1,19 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	learn Machine Learning with Youtube 생활코딩
+
+🔸what i did : 
+	vakabeln. Tabelle, Zeile, Spalte.
+
+^^*
+표를 처음 보았을 때: 서로 상관있는 특성(변수)는 뭐지?
+	독립변수, 종속변수 = 원인,결과: 독립에 의해 종속이 발생됨.
+*^^
+
+^^*
+상관관계: 두 값이 상관이 있을 때. 하지만 인과는 없을 수 있음
+인과관계: 두 값이 원인과, 결과의 관계일 때.
+*^^
+
+❗ next time :

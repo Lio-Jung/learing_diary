@@ -1,0 +1,10 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+	Mitte berechnen beim auswahl export mit mehreren Polygon(bei pion text geht's...)
+	
+🔸what i did : 
+	somehow easyExportPdfWithPolygon() is called... so i put easyExportRoomsCUSTOM() in there too. 
+		-> i need to fix easyExportRoomsCUSTOM()
+		
+❗ next time :
