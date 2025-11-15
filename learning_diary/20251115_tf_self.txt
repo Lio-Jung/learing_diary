@@ -1,0 +1,14 @@
+🔸 🔹 ❗ ❓(memo tools)
+
+🔸today's plan : 
+
+🔸what i did : 
+30min
+	hidden layer 
+H = tf.keras.layers.Dense(n, activation='swich')(X)
+
+1h
+	NaN데이터가 껴 있는 경우 없애는 방법 {isna().sum() fillna('')}
+	분류에서 dtype바꾸기 {.astype('')}
+
+❗ next time :
